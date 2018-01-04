@@ -1,5 +1,5 @@
 {
-  "name": "react-express-starter",
+  "name": "react-express-boilerplate",
   "version": "1.0.0",
   "description": "React/Express starter along with Redux",
   "main": "server.js",
